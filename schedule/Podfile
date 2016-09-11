@@ -1,0 +1,12 @@
+platform :ios, ‘9.0’
+
+
+target ‘schedule’ do
+    
+  pod 'AFNetworking', '~> 2.6'
+  pod 'RESideMenu', '~> 4.0.7'
+  pod 'BmobSDK'
+  pod 'MBProgressHUD', '~> 1.0.0'
+  pod 'MJRefresh'
+  
+end
